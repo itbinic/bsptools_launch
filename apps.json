@@ -1,5 +1,5 @@
 [
-  {"icon": "1", "name": "询报价系统", "url": "http://116.230.101.249:7875"},
-  {"icon": "1", "name": "测试体系", "url": "http://116.230.101.249:5000/"},
-  {"icon": "1", "name": "商标检测", "url": "http://116.230.101.249:8875/"}
+  {"icon": "https://raw.githubusercontent.com/itbinic/bsptools_launch/main/inquiry.png", "name": "询报价系统", "url": "http://116.230.101.249:7875"},
+  {"icon": "https://raw.githubusercontent.com/itbinic/bsptools_launch/main/test.png", "name": "测试体系", "url": "http://116.230.101.249:5000/"},
+  {"icon": "https://raw.githubusercontent.com/itbinic/bsptools_launch/main/labelcheck.png", "name": "商标检测", "url": "http://116.230.101.249:8875/"}
 ]
