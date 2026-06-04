@@ -1,9 +1,32 @@
 [
-  {"icon": "https://raw.githubusercontent.com/itbinic/bsptools_launch/main/inquiry.png", "name": "询报价系统", "url": "http://116.230.101.249:7875"},
-  {"icon": "https://raw.githubusercontent.com/itbinic/bsptools_launch/main/test.png", "name": "测试体系", "url": "http://116.230.101.249:5000/"},
-  {"icon": "https://raw.githubusercontent.com/itbinic/bsptools_launch/main/labelcheck.png", "name": "商标检测", "url": "http://116.230.101.249:8875/"}
-  {"icon": "http://bsptools.com/wp-content/uploads/2025/12/bsp-logo.svg", "name": "金刚石图纸", "url": "http://116.230.101.249:6001/"}
-  {"icon": "http://bsptools.com/wp-content/uploads/2025/12/bsp-logo.svg", "name": "砂轮测试", "url": "http://116.230.101.249:6002/"}
-  {"icon": "http://bsptools.com/wp-content/uploads/2025/12/bsp-logo.svg", "name": "电商报表", "url": "http://116.230.101.249:6003/"}
-
+    {
+        "icon": "https://raw.githubusercontent.com/itbinic/bsptools_launch/main/inquiry.png",
+        "name": "询报价系统",
+        "url": "http://116.230.101.249:7875"
+    },
+    {
+        "icon": "https://raw.githubusercontent.com/itbinic/bsptools_launch/main/test.png",
+        "name": "测试体系",
+        "url": "http://116.230.101.249:5000/"
+    },
+    {
+        "icon": "https://raw.githubusercontent.com/itbinic/bsptools_launch/main/labelcheck.png",
+        "name": "商标检测",
+        "url": "http://116.230.101.249:8875/"
+    },
+    {
+        "icon": "http://bsptools.com/wp-content/uploads/2025/12/bsp-logo.svg",
+        "name": "金刚石图纸",
+        "url": "http://116.230.101.249:6001/"
+    },
+    {
+        "icon": "http://bsptools.com/wp-content/uploads/2025/12/bsp-logo.svg",
+        "name": "砂轮测试",
+        "url": "http://116.230.101.249:6002/"
+    },
+    {
+        "icon": "http://bsptools.com/wp-content/uploads/2025/12/bsp-logo.svg",
+        "name": "电商报表",
+        "url": "http://116.230.101.249:6003/"
+    }
 ]
