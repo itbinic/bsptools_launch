@@ -28,5 +28,10 @@
         "icon": "http://bsptools.com/wp-content/uploads/2025/12/bsp-logo.svg",
         "name": "电商报表",
         "url": "http://116.230.101.249:6003/"
+    },
+    {
+        "icon": "http://bsptools.com/wp-content/uploads/2025/12/bsp-logo.svg",
+        "name": "样品管理",
+        "url": "http://116.230.101.249:6004/"
     }
 ]
