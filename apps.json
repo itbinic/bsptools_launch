@@ -33,5 +33,10 @@
         "icon": "http://bsptools.com/wp-content/uploads/2025/12/bsp-logo.svg",
         "name": "样品管理",
         "url": "http://218.1.222.145:6004/"
+    },
+    {
+        "icon": "http://bsptools.com/wp-content/uploads/2025/12/bsp-logo.svg",
+        "name": "锯片图纸",
+        "url": "http://218.1.222.145:6005/"
     }
 ]
